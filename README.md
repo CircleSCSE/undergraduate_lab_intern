@@ -10,6 +10,7 @@
 연구원들이 매 실험마다 **200장 이상의 현미경 이미지**를 육안으로 직접 확인하며 수동으로 카운팅하던 반복 노동을 식별하고, 이를 해소하는 도구를 **선제적으로 제안·제작**하여 연구 효율을 실질적으로 끌어올렸습니다.
 
 > **기술 스택** : Python · YOLOv8 · Swin Transformer · OpenCV · Tkinter · PyInstaller · Antigravity ( FM )
+
 > **납품 형태** : Windows 실행 파일 (`.exe`) 기반 데스크탑 애플리케이션
 
 ---
