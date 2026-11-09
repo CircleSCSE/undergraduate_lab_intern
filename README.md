@@ -1,5 +1,18 @@
 # CVlab - 대장균 응집 판별 머신러닝 모델 학습 및 윈도우 어플 개발 [ 키워드 : CLI 활용, ML, 연구 인력과의 소통, Tkinter App, 모호한 요구 사항 구체화 ]
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/d07e6323-a7a7-4f14-8f97-d41ba77d9e48" width="700" alt="사이트_실행">
+<p><em>[그림] 메인 화면 </em></p>
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/18449095-ea84-4c8e-a9c3-ec18bd41a1d2" width="700" alt="사이트_실행">
+<p><em>[그림] 유저 자체 수정 인터페이스 </em></p>
+</div>
+
+<br />
+<br />
+
 - 업무 기간 : 2026-02-10 ~ present
 - 키워드 : CLI 활용, ML, 연구 인력과의 소통, Tkinter App, 모호한 요구 사항 구체화
 
