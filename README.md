@@ -12,6 +12,15 @@
 
 <br />
 <br />
+<br />
+<br />
+
+**>>   어플 시연 영상 링크 : https://youtu.be/xrBq2rFm3MA   <<**
+  
+<br />
+<br />
+<br />
+<br />
 
 - 업무 기간 : 2026-02-10 ~ present
 - 키워드 : CLI 활용, ML, 연구 인력과의 소통, Tkinter App, 모호한 요구 사항 구체화
